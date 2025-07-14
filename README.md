@@ -1,7 +1,4 @@
-# Merging Method 2 (LabConfig Registry Hack) directly under Step 3 in a cleaner way
-
-final_readme_content = """
-# 💻 How to Install Windows 11 24H2 on 2GB RAM PC — No TPM | No Secure Boot | Bypass Methods
+💻 How to Install Windows 11 24H2 on 2GB RAM PC — No TPM | No Secure Boot | Bypass Methods
 
 This guide helps you install **Windows 11 24H2** on older PCs with only **2GB RAM**, **No TPM**, and **No Secure Boot**. It includes multiple bypass methods: **Rufus**, **Registry Hacks**, and **appraiserres.dll** tweaks.
 
