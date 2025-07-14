@@ -63,6 +63,8 @@ If you are not using Rufus or want to customize further, try these manual bypass
 | BypassTPMCheck        | DWORD  | 1     |
 | BypassRAMCheck        | DWORD  | 1     |
 | BypassSecureBootCheck | DWORD  | 1     |
+| BypassCPUCheck        | DWORD  | 1     |
+| BypassStoreageCheck   | DWORD  | 1     |
 
 This will bypass the TPM, RAM, and Secure Boot checks during installation.
 
